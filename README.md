@@ -1,5 +1,3 @@
-# Speed-Test
-You can check your intenet speed using this tool.
 <h1><p align= "center">  Speed-Test </p></h1>
 <h4><p align = "center">Tool By Hez_X<p><h4>
 <div>  

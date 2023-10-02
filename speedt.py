@@ -13,7 +13,7 @@ print("\033[94m")
 
 print(logo1)
 
-m = ("\033[93m [+] MEMBER OF SL CYBER WARRIORS : 👑HEZ_X")
+m = ("\033[93m [+] MEMBER OF SL CYBER WARRIORS : 👑HeShO-117")
 for x in m:
        for y in x:
              print(y,end='')
